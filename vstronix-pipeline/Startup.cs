@@ -15,6 +15,7 @@ namespace vstronix_pipeline
     {
         public Startup(IConfiguration configuration)
         {
+            // Change by yibin
             Configuration = configuration;
         }
 
